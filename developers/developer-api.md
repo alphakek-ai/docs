@@ -9,16 +9,7 @@ icon: webhook
 The Enterprise API is the main access point for [#aikek-memelord](../launch/universal-agents.md#aikek-memelord "mention") and [#aikek-wizard](../launch/universal-agents.md#aikek-wizard "mention") universal agents.
 {% endhint %}
 
-Alphakek API gives developers access to some of our B2C functionalities, [meme-generator.md](../create/meme-generator.md "mention") and [ai-playground.md](../research/ai-playground.md "mention"), via open, modular, and composable APIs. Designed for applications such as:
-
-* Chatbots
-* Image generation
-* Crypto research
-* Community engagement
-* Trade alerts
-* Drafting documents
-* Answering questions about a knowledge base
-* and much more
+Alphakek API gives developers access to some of our B2C functionalities, [meme-generator.md](../create/meme-generator.md "mention") and [ai-playground.md](../research/ai-playground.md "mention"), via open, modular, and composable APIs. Designed for applications such as agents, chatbots, crypto research, image generation, trade alerts, and more.
 
 ## Modules
 
